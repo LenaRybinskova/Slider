@@ -6,7 +6,7 @@ import {Pagination} from 'swiper/modules';
 
 import 'swiper/css';
 import 'swiper/css/pagination';
-import {Slide} from '@/app/common/types';
+import {Slide} from '@/common/types';
 import Image from 'next/image';
 
 type Props = {
